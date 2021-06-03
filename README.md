@@ -3,12 +3,12 @@
 
 ## :warning: IMPORTANT:warning:
 
-* The URL Should will be ```https```
+* The URL Should will  ```https```
 * If there are no Emails present it willl print ```No email Available```
 
 ## Instructions
 
-Make Sure you have Python (3.9.0)  installed. 
+Make Sure you have Python (3.9.1)  installed. 
 
 * Type ```pip install -r requirements.txt```
 * Now open URLEmailScrapper.py file from the terminal by using ```python ./URLEmailScrapper.py```
