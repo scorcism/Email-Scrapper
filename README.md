@@ -3,7 +3,7 @@
 
 ## :warning: IMPORTANT:warning:
 
-* The URL Should will  ```https```
+* The URL Should be  ```https```
 * If there are no Emails present it willl print ```No email Available```
 
 ## Instructions
